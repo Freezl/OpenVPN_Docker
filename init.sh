@@ -29,4 +29,5 @@ cp pki/private/vpn-server.key ../../volumes/keys
 fi
 
 # Generate client keys
+#
 #./easyrsa build-server-full USER nopass
